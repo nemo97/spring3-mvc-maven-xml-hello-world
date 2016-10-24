@@ -1,0 +1,17 @@
+CVS
+.#*
+dist
+target
+.DS_Store
+*.cache
+*.log*
+*.iml
+*.bak	
+.project
+.classpath
+.settings
+.idea
+**/node_modules/*
+**/typings/*
+**/app/**.js
+~$*
