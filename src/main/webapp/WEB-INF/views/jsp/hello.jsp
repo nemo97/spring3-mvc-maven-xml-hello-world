@@ -14,11 +14,11 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project ${message}</a>
+		<a class="navbar-brand" href="#">Spring 3 MVC Project1 ${message}</a>
 	</div>
   </div>
 </nav>
- 
+
 <div class="jumbotron">
   <div class="container">
 	<h1>${title}</h1>
